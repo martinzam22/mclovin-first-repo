@@ -1,3 +1,4 @@
+
 # Learning Git #
 Important steps for git workflow:
 1. Initialize repository with git init
@@ -6,3 +7,4 @@ Important steps for git workflow:
 4. Stage changes for commit
 5. commit changes to version history
 6. Review changes with git log
+This is a text filE
