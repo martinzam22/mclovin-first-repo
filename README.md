@@ -8,3 +8,4 @@ Important steps for git workflow:
 5. commit changes to version history
 6. Review changes with git log
 This is a text filE
+This is a change from github
